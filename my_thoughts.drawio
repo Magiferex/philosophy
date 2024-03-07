@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T05:46:50.003Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="VKL7MJGNJ1vMK3LH4iqE" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T05:47:29.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="Z_guy30aJzSlIgt9K7GI" version="24.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="995" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
           <mxGeometry x="950" y="240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uvFvA5I2A_d2NtPLVpGV-7" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; display: inline !important; float: none;&quot;&gt;The Magician&#39;s Companion&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1320" y="240" width="160" height="60" as="geometry" />
+          <mxGeometry x="1320" y="140" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uvFvA5I2A_d2NtPLVpGV-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Man and His Symbols&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1040" y="340" width="160" height="60" as="geometry" />
@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uvFvA5I2A_d2NtPLVpGV-16" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; display: inline !important; float: none;&quot;&gt;Condensed Chaos&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1320" y="140" width="160" height="60" as="geometry" />
+          <mxGeometry x="1320" y="240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uvFvA5I2A_d2NtPLVpGV-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uvFvA5I2A_d2NtPLVpGV-10" target="uvFvA5I2A_d2NtPLVpGV-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -102,7 +102,7 @@
             <mxPoint x="1140" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uvFvA5I2A_d2NtPLVpGV-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uvFvA5I2A_d2NtPLVpGV-16" target="uvFvA5I2A_d2NtPLVpGV-4">
+        <mxCell id="uvFvA5I2A_d2NtPLVpGV-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uvFvA5I2A_d2NtPLVpGV-7" target="uvFvA5I2A_d2NtPLVpGV-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1260" y="180" as="sourcePoint" />
             <mxPoint x="1310" y="130" as="targetPoint" />
